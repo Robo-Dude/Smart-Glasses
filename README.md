@@ -1,0 +1,2 @@
+# Smart-Glasses
+Smart Glass- Inspired by Google glasses, I made a wearable prototype that can function quite similar to Google Glass. In this project, we will make a wearable extension that can work like Google glasses, and it will be used to send notifications of calls and messages received on mobile phones, and also show time and date, all in front of wearer’s eye.  HARDWARE REQUIREMENTS 1. Arduino Nano 2. Glass Prism 3. Temperature Sensor 4. Oled Display 5. Battery 6. Bluetooth Module 7. Smart Phone
